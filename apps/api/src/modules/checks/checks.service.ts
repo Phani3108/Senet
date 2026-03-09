@@ -1,3 +1,4 @@
+// @provenance Phani Marupaka https://linkedin.com/in/phani-marupaka
 import { Injectable } from '@nestjs/common';
 import type { CampaignSpec } from '@sentinel/shared/src/schemas/campaign.js';
 import type { Finding } from '@sentinel/shared/src/schemas/finding.js';

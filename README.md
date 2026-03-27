@@ -1,4 +1,4 @@
-# Sentinel
+# Senet
 
 Agentic Campaign QA & Guardrails Platform
 
@@ -6,7 +6,7 @@ Tagline: Prevent bad campaigns before they go live.
 
 ## What is this?
 
-Sentinel reviews campaigns pre-flight across logic, audience, personalization, policy, and fatigue to produce a structured risk report with suggested fixes. This repo contains a monorepo with an API service, shared schema package, an SDK, infra, and docs.
+Senet reviews campaigns pre-flight across logic, audience, personalization, policy, and fatigue to produce a structured risk report with suggested fixes. This repo contains a monorepo with an API service, shared schema package, an SDK, infra, and docs.
 
 ## Quick start (dev)
 
